@@ -6,6 +6,6 @@ Currently it is working on Windows(x86) environment and if it is necessary to ex
 
 OpenGL GLUT library is freeglut and probably work on both Linux and Windows.
 
-Currently only supports VELODYNE Pucklite. You can change parser class to read another one.
+Currently only supports VELODYNE Pucklite VLP-16. You can change parser class to read another one.
 
 Don't forget to update serial port name.!
