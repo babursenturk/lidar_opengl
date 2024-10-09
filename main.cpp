@@ -619,7 +619,7 @@ int main(int argc, char** argv) {
     int iCPU = omp_get_num_procs();
     omp_set_num_threads(iCPU);
 
-    std::cout << "Kindhelm! " << iCPU << " cores detected and threaded!";
+    std::cout << "VELO " << iCPU << " cores detected and threaded!";
 
     mygga = new Parsegga();
     mypoints = new Parseudp();
